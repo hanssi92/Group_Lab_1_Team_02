@@ -1,1 +1,5 @@
 /TeamGreeting/nbproject/private/
+/build/
+/dist/
+*.class
+nbproject/private/
